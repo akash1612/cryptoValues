@@ -1,0 +1,27 @@
+.card{
+    height: 300px;
+    width: 300px;
+    border: 1px solid;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom:20px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    align-items: center;
+    margin: 40px;
+    text-align: center;
+ 
+}
+
+h1{
+    margin-top: 50px;
+}
+
+.card:hover {
+    -webkit-transform: scale(1.25, 1.25);
+    transform: scale(1.25, 1.25);
+  }
+  
+
+  
